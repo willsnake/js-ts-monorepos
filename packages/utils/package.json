@@ -7,6 +7,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@shlack/types": "^0.0.1",
     "date-fns": "^2.16.1",
     "react": "^17.0.1"
   },
